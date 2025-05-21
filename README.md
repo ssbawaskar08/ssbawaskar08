@@ -20,7 +20,7 @@ I'm open to **internships, and collaboration opportunities** in:
 
 ## 📫 Connect With Me
 - 📧 Email: **bawaskar.shreyas@gmail.com**
-- 💼 LinkedIn: [Shreyas Bawaskar]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shreyasbawaskar/))
+- 💼 LinkedIn: [Shreyas Bawaskar](https://www.linkedin.com/in/shreyasbawaskar/)
 - 🏗 GitHub Portfolio: [ssbawaskar08](https://github.com/ssbawaskar08)
 
 ## ⚡ Fun Fact
